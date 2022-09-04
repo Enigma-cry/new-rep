@@ -17,3 +17,8 @@ input('Выберите способ доставки ')
 admin = 0
 
 admin = input('Введите имя файла ')
+
+if admin == 'pass':
+	print('Верно')
+else:
+	print('Не верно')
