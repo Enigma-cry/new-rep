@@ -11,4 +11,4 @@ else:
 
 print('Спасибо за отзыв!')
 print('Обрашение на почту в крайнем случае! ')
-print('Почта Ed.m@mail.ry')
+print('Почта Ed.m@mail.ru')
